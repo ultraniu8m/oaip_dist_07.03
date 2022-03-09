@@ -1,0 +1,10 @@
+D:\24.01 oaip\dist_monday\dist_monday\bin\Debug\dist_monday.exe.config
+D:\24.01 oaip\dist_monday\dist_monday\bin\Debug\dist_monday.exe
+D:\24.01 oaip\dist_monday\dist_monday\bin\Debug\dist_monday.pdb
+D:\24.01 oaip\dist_monday\dist_monday\obj\Debug\dist_monday.csproj.AssemblyReference.cache
+D:\24.01 oaip\dist_monday\dist_monday\obj\Debug\dist_monday.Form1.resources
+D:\24.01 oaip\dist_monday\dist_monday\obj\Debug\dist_monday.Properties.Resources.resources
+D:\24.01 oaip\dist_monday\dist_monday\obj\Debug\dist_monday.csproj.GenerateResource.cache
+D:\24.01 oaip\dist_monday\dist_monday\obj\Debug\dist_monday.csproj.CoreCompileInputs.cache
+D:\24.01 oaip\dist_monday\dist_monday\obj\Debug\dist_monday.exe
+D:\24.01 oaip\dist_monday\dist_monday\obj\Debug\dist_monday.pdb
